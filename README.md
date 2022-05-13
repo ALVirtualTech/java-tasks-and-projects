@@ -3,7 +3,7 @@
 
 ## Java Core
 
-- <span style="color: green; "> Easy:  </span> система тестирования: core (collections, stream api)
+- <font color="green"> Easy:  </font> система тестирования: core (collections, stream api)
 - <span style="color: yellow; "> Medium:  </span> банковский аккаунт  [/bank-account](/bank-account): concurrency, GoF, spring, hibernate
 - <span style="color: yellow; "> Medium:  </span> сервис для работы с изображениями [/bank-account](/images-service): concurrency, GoF
 
