@@ -16,6 +16,7 @@
 - <span style="color: yellow; "> Medium:  </span> банковский аккаунт  [/bank-account](/bank-account): concurrency, GoF, spring, hibernate
 - <span style="color: yellow; "> Medium:  </span> Скраппер сайтов [/site-scrapper](/site-scrapper): concurrency, GoF, jsoup
 - <span style="color: yellow; "> Medium:  </span> сервис для работы с изображениями [/bank-account](/images-service): concurrency, GoF
+- <span style="color: yellow; "> Medium:  </span> сервис для работы с изображениями [/bank-account](/images-service): concurrency, GoF
 
 ## Groovy
 
@@ -47,5 +48,7 @@
 
 Проекты:
 - <span style="color: green; "> Medium:  </span> TODO List: spring, hibernate
-- <span style="color: yellow; "> Medium:  </span> система микросервисов для владельцев домашних животных: MSA, MQ, spring, hibernate 
+- <span style="color: green; "> Easy:  </span> <span style="color: red; "> Hard:  </span> система микросервисов для владельцев домашних животных: MSA, MQ, spring, hibernate 
 - <span style="color: yellow; "> Medium:  </span> книжный магазин [/bookshop](/bookshop): spring, hibernate
+- <span style="color: yellow; "> Medium:  </span> LMS: управление курсами (покупка, просмотр) [/bookshop](/bookshop): spring, hibernate
+- <span style="color: yellow; "> Medium:  </span> сервис для работы с изображениями [/bank-account](/images-service): concurrency, GoF
