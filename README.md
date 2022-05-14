@@ -17,6 +17,21 @@
 - <span style="color: yellow; "> Medium:  </span> Скраппер сайтов [/site-scrapper](/site-scrapper): concurrency, GoF, jsoup
 - <span style="color: yellow; "> Medium:  </span> сервис для работы с изображениями [/bank-account](/images-service): concurrency, GoF
 
+## Groovy
+
+Основные темы:
+
+- Поддержка статической и динамической типизации.
+- Поддержка перегрузки оператора.
+- Собственный синтаксис для списков и ассоциативных массивов.
+- Встроенная поддержка регулярных выражений.
+- Встроенная поддержка различных языков разметки, таких как XML и HTML.
+- Groovy прост для разработчиков Java, поскольку синтаксис для Java и Groovy очень похожи.
+- Вы можете использовать существующие библиотеки Java.
+- Groovy расширяет объект java.lang.Object.
+
+[Официальный сайт Groovy](http://www.groovy-lang.org/)
+
 ## Spring Framework
 
 Основные темы:
@@ -31,5 +46,6 @@
 - <span style="color: red; "> Spring Cloud </span>
 
 Проекты:
+- <span style="color: green; "> Medium:  </span> TODO List: spring, hibernate
 - <span style="color: yellow; "> Medium:  </span> система микросервисов для владельцев домашних животных: MSA, MQ, spring, hibernate 
 - <span style="color: yellow; "> Medium:  </span> книжный магазин [/bookshop](/bookshop): spring, hibernate
